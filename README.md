@@ -7,6 +7,8 @@ This repository contains the code for Colorectal cancer classification using mul
 ![Result](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/Result_visualization.png)
 - **Case25**  
 ![Case25](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case26.png)
+- **Case25**  
+![Case25](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/DenseNet_multitask.png)
 
 
 ```
