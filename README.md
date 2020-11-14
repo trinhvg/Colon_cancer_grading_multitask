@@ -2,9 +2,9 @@
 This repository contains the code for Colorectal cancer classification using multi-task deep learning method. 
 
 # Multi-task deep learning network
-![Network](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/DenseNet_multitask.gif)
+[Network](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/DenseNet_multitask.gif)
 # Prediction result visualization 
-![Result](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/Result_visualization.png)
+[Result](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/Result_visualization.png)
 
 ```
 ## Authours
