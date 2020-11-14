@@ -8,7 +8,7 @@ This repository contains the code for Colorectal cancer classification using mul
 
 ```
 ## Authours
-* [**Trinh Vuong Thi Le**](https://github.com/minhto2802)
+* [**Trinh Vuong Thi Le**](https://github.com/timmyvg)
 
 ## Citation
 If any part of this code is used, please give appropriate citation to our paper.
