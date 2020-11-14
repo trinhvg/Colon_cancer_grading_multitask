@@ -1,13 +1,10 @@
 # Multi-task Deep Learning for Colon Cancer Grading [(Paper)](https://ieeexplore.ieee.org/document/9051305)
-This repository contains the code for Colorectal cancer classification using multi task deep learning method. 
+This repository contains the code for Colorectal cancer classification using multi-task deep learning method. 
 
-Below are a few examples of the model predictions on the validation set (yellow: groundtruth, red: prediction):
-- **Case00**  
-![case00](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case00.png)
-- **Case15**  
-![case15](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case15.png)
-- **Case25**  
-![Case25](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case26.png)
+# Multi-task deep learning network
+![Network](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/DenseNet_multitask.gif)
+# Prediction result visualization 
+![Result](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/Result_visualization.png)
 
 ```
 ## Authours
