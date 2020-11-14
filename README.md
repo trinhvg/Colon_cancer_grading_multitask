@@ -2,18 +2,14 @@
 This repository contains the code for Colorectal cancer classification using multi-task deep learning method. 
 
 # Multi-task deep learning network
-![Network](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/DenseNet_multitask.gif)
+![Network](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/DenseNet_multitask.png)
 # Prediction result visualization 
-![Result](https://github.com/timmyvg/Colon_cancer_grading_multitask/tree/master/Image/Result_visualization.png)
-- **Case25**  
-![Case25](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case26.png)
+![Result](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/Result_visualization.png)
 
-
-```
-## Authours
+# Authours
 * [**Trinh Vuong Thi Le**](https://github.com/timmyvg)
 
-## Citation
+# Citation
 If any part of this code is used, please give appropriate citation to our paper.
 
 BibTex entry:  
