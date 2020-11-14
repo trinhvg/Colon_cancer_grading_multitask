@@ -15,14 +15,12 @@ If any part of this code is used, please give appropriate citation to our paper.
 
 BibTex entry:  
 ```
-@article{to2018deep,
-  title={Deep dense multi-path neural network for prostate segmentation in magnetic resonance imaging},
-  author={To, Minh Nguyen Nhat and Vu, Dang Quoc and Turkbey, Baris and Choyke, Peter L and Kwak, Jin Tae},
-  journal={International journal of computer assisted radiology and surgery},
-  volume={13},
-  number={11},
-  pages={1687--1696},
-  year={2018},
-  publisher={Springer}
+@inproceedings{vuong2020multi,
+  title={Multi-task Deep Learning for Colon Cancer Grading},
+  author={Vuong, Thi Le Trinh and Lee, Daigeun and Kwak, Jin Tae and Kim, Kyungeun},
+  booktitle={2020 International Conference on Electronics, Information, and Communication (ICEIC)},
+  pages={1--2},
+  year={2020},
+  organization={IEEE}
 }
 ```
