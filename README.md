@@ -8,7 +8,7 @@ This repository contains the code for Colorectal cancer classification using mul
 - **Case25**  
 ![Case25](https://github.com/minhto2802/dense-multipath-nn-prostate-segmentation/blob/master/src/Case26.png)
 - **Case25**  
-![Case25](https://i2.wp.com/bdtechtalks.com/wp-content/uploads/2018/12/artificial-intelligence-deep-learning-neural-networks-ai-1.jpg?fit=2000%2C1111&ssl=1)
+![Case25](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/Result_visualization.png)
 
 
 ```
