@@ -1,12 +1,12 @@
 # Multi-task Deep Learning for Colon Cancer Grading [(Paper)](https://ieeexplore.ieee.org/document/9051305)
-This repository contains the code for Colorectal cancer classification using multi-task deep learning method. 
+This repository contains the code for Colorectal cancer classification using the multi-task deep learning method. 
 
 # Multi-task deep learning network
 ![Network](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/DenseNet_multitask.png)
 # Prediction result visualization 
 ![Result](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/Result_visualization.png)
 
-# Authours
+# Authors
 * [**Trinh Vuong Thi Le**](https://github.com/timmyvg)
 
 # Citation
