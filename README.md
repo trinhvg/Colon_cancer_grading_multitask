@@ -1,4 +1,4 @@
-# Multi-task Deep Learning for Colon Cancer Grading [(Paper)](https://ieeexplore.ieee.org/document/9051305)
+# Multi-task Deep Learning for Colon Cancer Grading [(ICIEC 2020 Paper)](https://ieeexplore.ieee.org/document/9051305)
 This repository contains the code for Colorectal cancer classification using the multi-task deep learning method. 
 
 # Multi-task deep learning network
