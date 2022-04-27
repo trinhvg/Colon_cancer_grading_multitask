@@ -9,7 +9,7 @@ This repository contains the code for Colorectal cancer classification using the
 ![Result](https://raw.githubusercontent.com/timmyvg/Colon_cancer_grading_multitask/master/Image/Result_visualization.png)
 
 # Authors
-* [**Trinh Vuong Thi Le**](https://github.com/timmyvg)
+* [**Trinh Vuong Thi Le**](https://github.com/timmyvg) and Lee, Daigeun and Kwak, Jin Tae and Kim, Kyungeun
 
 # Citation
 If any part of this code is used, please give appropriate citation to our paper.
